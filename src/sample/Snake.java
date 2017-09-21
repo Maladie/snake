@@ -41,7 +41,6 @@ public class Snake {
     }
 
     public void addSnakeSegment(){
-
         body.add(body.get(1));
     }
 
